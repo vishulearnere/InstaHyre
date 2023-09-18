@@ -1,0 +1,101 @@
+[
+  {
+    "id": "108c8554-d002-42ca-be0b-4bee8d353391",
+    "name": "Krishna",
+    "email": "krishna@gmail.com",
+    "phoneNo": "6377607723",
+    "spam": 0,
+    "isRegister": 0,
+    "contactList": "79dd1a6a-6396-4675-9e5b-a3ce7dfdb3b5",
+    "createdAt": "2023-08-12 19:43:05.790",
+    "updatedAt": "2023-08-12 19:43:05.790"
+  },
+  {
+    "id": "4dc64831-ebb4-4164-8b1c-557965b6ffde",
+    "name": "rakesh",
+    "email": "rakesh123@gmail.com",
+    "phoneNo": "992624567",
+    "spam": 1,
+    "isRegister": 1,
+    "contactList": "2f4e425c-4600-4c37-8355-ed0f9d8bbdb1",
+    "createdAt": "2023-08-13 13:00:26.966",
+    "updatedAt": "2023-08-13 13:00:26.966"
+  },
+  {
+    "id": "738f9433-1ad3-43c2-ba85-246914e6d4ee",
+    "name": "rahul",
+    "email": "rahul@gmail.com",
+    "phoneNo": "63775677685",
+    "spam": 0,
+    "isRegister": 0,
+    "contactList": "2f4e425c-4600-4c37-8355-ed0f9d8bbdb1",
+    "createdAt": "2023-08-13 13:04:29.295",
+    "updatedAt": "2023-08-13 13:04:29.295"
+  },
+  {
+    "id": "8eb1884f-d898-4cc0-ad13-fb637d9681fc",
+    "name": "spammer",
+    "email": "spammer@gmail.com",
+    "phoneNo": "9264483637",
+    "spam": 1,
+    "isRegister": 0,
+    "contactList": "2f4e425c-4600-4c37-8355-ed0f9d8bbdb1",
+    "createdAt": "2023-08-13 13:01:11.566",
+    "updatedAt": "2023-08-13 13:01:11.566"
+  },
+  {
+    "id": "97dc91a6-eb78-4c6f-afd0-85c678fca98b",
+    "name": "Radha",
+    "email": "radha@gmail.com",
+    "phoneNo": "1234567165",
+    "spam": 0,
+    "isRegister": 1,
+    "contactList": null,
+    "createdAt": "2023-08-12 17:28:41.582",
+    "updatedAt": "2023-08-12 17:28:41.582"
+  },
+  {
+    "id": "bc9bf184-2ef5-419c-9185-0a6d4e86130f",
+    "name": "Radhe",
+    "email": "krishna@gmail.com",
+    "phoneNo": "6377607723",
+    "spam": 0,
+    "isRegister": 0,
+    "contactList": "79dd1a6a-6396-4675-9e5b-a3ce7dfdb3b5",
+    "createdAt": "2023-08-12 20:34:27.359",
+    "updatedAt": "2023-08-12 20:34:27.359"
+  },
+  {
+    "id": "c688a0a9-20ee-426c-bd11-eb5ccb881230",
+    "name": "Vishal",
+    "email": "shivharevishal14@gmail.com",
+    "phoneNo": "6377607723",
+    "spam": 0,
+    "isRegister": 1,
+    "contactList": null,
+    "createdAt": "2023-08-13 12:57:22.742",
+    "updatedAt": "2023-08-13 12:57:22.742"
+  },
+  {
+    "id": "cd1afa0d-2442-4e7d-860a-d86bd9d7abe4",
+    "name": "mahabhali",
+    "email": "spammer@gmail.com",
+    "phoneNo": "9376487374",
+    "spam": 1,
+    "isRegister": 0,
+    "contactList": "79dd1a6a-6396-4675-9e5b-a3ce7dfdb3b5",
+    "createdAt": "2023-08-12 19:32:04.045",
+    "updatedAt": "2023-08-12 19:32:04.045"
+  },
+  {
+    "id": "ecd7576c-373d-4031-9e7a-d4803494551d",
+    "name": "ravan",
+    "email": "ravan",
+    "phoneNo": "9376487374",
+    "spam": 1,
+    "isRegister": 0,
+    "contactList": "79dd1a6a-6396-4675-9e5b-a3ce7dfdb3b5",
+    "createdAt": "2023-08-12 18:31:51.703",
+    "updatedAt": "2023-08-12 19:32:03.996"
+  }
+]

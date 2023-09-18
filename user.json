@@ -1,0 +1,51 @@
+[
+	{
+		"id" : "24a1c7b9-a4d2-433b-865b-135cb521461e",
+		"name" : "Radha",
+		"email" : "radha@gmail.com",
+		"phoneNo" : "1234567115",
+		"password" : "$2a$10$7TYF005QW.KE3eIxXYnGgOHPH1WQByGkAvFBC5X45sTGDAIXzuQr6"
+	},
+	{
+		"id" : "2f4e425c-4600-4c37-8355-ed0f9d8bbdb1",
+		"name" : "Vishal",
+		"email" : "shivharevishal14@gmail.com",
+		"phoneNo" : "6377607723",
+		"password" : "$2a$10$EDzITlk1fxb1/AaO1TbmU.wYkYO/fneg7fW5swNL1NM4ckqFQoS6a"
+	},
+	{
+		"id" : "67ba7c93-651c-4828-95f4-8dd783830043",
+		"name" : "Radha",
+		"email" : "radha@gmail.com",
+		"phoneNo" : "1234567890",
+		"password" : "$2a$10$HNhuMgwLU2h2zXm5g0exiuARwMECUwCW4osrst7LXGAw6gGrgBtiS"
+	},
+	{
+		"id" : "73b247c6-7b95-4b4a-8459-c94f07ae07a2",
+		"name" : "Radha",
+		"email" : "radha@gmail.com",
+		"phoneNo" : "1234567119",
+		"password" : "$2a$10$sRsekh7tc0onFfiLKtLIEO0ipO77yMUoMrLWIN7ufO2V.6saHWjAa"
+	},
+	{
+		"id" : "79dd1a6a-6396-4675-9e5b-a3ce7dfdb3b5",
+		"name" : "Radha",
+		"email" : "radha@gmail.com",
+		"phoneNo" : "123456789",
+		"password" : "$2a$10$brnJe0MMXFlQKhLd1EwDQ.mGFHof0invTEd9pcufWMcxwCVC/6mcy"
+	},
+	{
+		"id" : "8760bbc3-c79b-49df-9e46-07cf67891d47",
+		"name" : "Radha",
+		"email" : "radha@gmail.com",
+		"phoneNo" : "1234567165",
+		"password" : "$2a$10$bKqeIMv3xg1IEaOpu5UU.uoTkyyznZhvfi0uwAD5R1KZrBl1XviYq"
+	},
+	{
+		"id" : "a8017f8e-28eb-401d-9305-e8e7e9cf6888",
+		"name" : "rakesh",
+		"email" : "rakesh123@gmail.com",
+		"phoneNo" : "992624567",
+		"password" : "$2a$10$za6q3aaO6uUkwWz6kfyVGOYkvv1ipZ1XV68s5CxsWhSMupm0C1iUq"
+	}
+]
