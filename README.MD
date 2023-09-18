@@ -1,8 +1,8 @@
 # Info
 
 - The API is Developed In NodeJS & ExpressJs Framework<br>
-- The Database used is MYSQL<br>
-- the ORM framework Used is Prisma <br>
+- The Database used is MYSQL <br>
+- the ORM framework Used is Prisma ORM <br>
 
 ## Features
 
